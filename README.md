@@ -17,6 +17,7 @@ I haven't been able to spend much time with them due to this software engineerin
 
 ### How to use
 * Fork and clone
+* In your terminal: $ json-server --watch db.json 
 * Open the index.html
     From here, you should be able to follow instructions on html page to view, save, and delete saved jokes.
 
