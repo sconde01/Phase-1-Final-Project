@@ -1,0 +1,16 @@
+{
+  "favorites": [
+    {
+      "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+      "id": 2
+    },
+    {
+      "joke": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+      "id": 3
+    },
+    {
+      "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+      "id": 4
+    }
+  ]
+}
